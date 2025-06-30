@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfed55fe-0527-4351-9726-0f654dcba4f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../chronicles2/20250629.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chronicles2/simulation.R" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chronicles2/Christianity.html" beforeDir="false" afterPath="$PROJECT_DIR$/../chronicles2/Christianity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chronicles2/diary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../chronicles2/diary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="bfed55fe-0527-4351-9726-0f654dcba4f7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +68,7 @@
       <workItem from="1751093275882" duration="5751000" />
       <workItem from="1751158937536" duration="139000" />
       <workItem from="1751160698205" duration="170000" />
-      <workItem from="1751195556549" duration="7501000" />
+      <workItem from="1751195556549" duration="7794000" />
     </task>
     <servers />
   </component>
