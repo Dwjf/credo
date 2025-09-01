@@ -1,0 +1,65 @@
+/* Reset default margins and ensure full height */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+/* Main container to hold all sections */
+.container {
+    display: flex;
+    min-height: 100vh;
+}
+
+/* Navigation bar (First column) */
+.nav-bar {
+    flex: 0 0 400px; /* Increased from 300px to 400px */
+    /*background-color: #c5e0f4;*/
+    color: white;
+    position: fixed;
+    height: 100vh;
+    overflow-y: auto;
+    margin-left: 20px;
+}
+
+/* Main section (Second column) */
+.main-section {
+    flex: 0 0 500px;
+    /*background-color: #f0f0f0;*/
+    margin-left: 250px; /* Match the new nav-bar width */
+    overflow-y: auto;
+    margin-right: 20px;
+}
+
+/* Third section (Third column) */
+.third-section {
+    /*position: fixed;*/
+    flex: 0 0 500px;
+    /*background-color: #f0f0f0;*/
+    margin-left: 50px; /* Match the new nav-bar width */
+    overflow-y: auto;
+    margin-right: 20px;
+    background-color: #f0f0f0;
+    padding-left: 20px;
+    line-height: 0.5;
+
+    /*overflow-y: auto;*/
+}
+
+/* Add padding to the top if needed */
+.padding_top {
+    padding-top: 20px;
+}
+
+dd {
+    padding-bottom: 20px;
+}
+
+.nav-links {
+    margin-bottom: 10px;
+}
+
+.words_of_christ {
+    /*font-weight: bold;*/
+    color: orangered;
+}

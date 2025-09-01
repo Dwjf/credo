@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfed55fe-0527-4351-9726-0f654dcba4f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../chronicles2/resume/resume1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chronicles2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chronicles2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chronicles2/resume/path_to_coding.html" beforeDir="false" afterPath="$PROJECT_DIR$/../chronicles2/resume/path_to_coding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chronicles2/resume/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/../chronicles2/resume/resume.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -79,8 +85,6 @@
       <workItem from="1754788344856" duration="1909000" />
       <workItem from="1756031198195" duration="799000" />
       <workItem from="1756115670732" duration="3226000" />
-      <workItem from="1756459353264" duration="1293000" />
-      <workItem from="1756717856804" duration="1156000" />
     </task>
     <servers />
   </component>
