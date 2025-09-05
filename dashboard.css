@@ -3,6 +3,8 @@ html, body {
     margin: 0;
     padding: 0;
     height: 100%;
+    font: 14px "Book Antiqua", Helvetica, Arial, sans-serif;
+    line-height: 1.3em;
 }
 
 /* Main container to hold all sections */
@@ -26,7 +28,7 @@ html, body {
 .main-section {
     flex: 0 0 500px;
     /*background-color: #f0f0f0;*/
-    margin-left: 250px; /* Match the new nav-bar width */
+    margin-left: 320px; /* Match the new nav-bar width */
     overflow-y: auto;
     margin-right: 20px;
 }
