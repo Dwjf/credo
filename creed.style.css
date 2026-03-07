@@ -1,4 +1,13 @@
 body {
     margin: 100px;
     width: 50%;
+    background-color: lightgrey;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    padding-bottom: 10px;
 }
